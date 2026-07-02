@@ -106,16 +106,18 @@ http://localhost:3000
 
 ---
 
+
+
 ## 🎯 Future Improvements
 
-- 🔐 User Authentication
-- 👨‍💼 Admin Dashboard
-- 📅 Event Management
-- 💼 Job Portal
-- 💬 Real-Time Chat
-- 🤖 AI Mentor Recommendation
-- 📧 Email Notifications
-- 📱 Mobile Responsive UI Improvements
+- Alumni Event Management
+- Job & Internship Portal
+- AI Career Mentor
+- Resume Review
+- Email Notifications
+- Real-time Chat
+- Alumni Success Stories
+- Admin Analytics Dashboard
 
 ---
 
