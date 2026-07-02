@@ -92,6 +92,13 @@ http://localhost:3000
 
 <img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/4b5c080b-524a-4f36-ab8c-aec86e9227b8" />
 
+### Alumni Portal 
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/0bc8811c-bf86-4f08-b598-05ebacf65fc9" />
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/a9714c19-9461-42fb-8bec-0764fc1b153d" />
+
+
+
+
 
 ---
 
