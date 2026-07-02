@@ -82,15 +82,16 @@ http://localhost:3000
 
 ### Home Page
 
-(Add Screenshot Here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e064adf1-3ade-41d3-a1d5-6c344b43de6a" />
 
 ### Registration Page
 
-(Add Screenshot Here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb7fb879-0829-4db0-8a52-350ceb638c53" />
 
 ### Alumni Directory
 
-(Add Screenshot Here)
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/4b5c080b-524a-4f36-ab8c-aec86e9227b8" />
+
 
 ---
 
