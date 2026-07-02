@@ -4,15 +4,19 @@ A modern full-stack web application that helps universities connect students wit
 
 ---
 
+
+
 ## 🚀 Features
 
-- ✅ Alumni Registration
-- ✅ Search Alumni by Name
-- ✅ Alumni Directory
-- ✅ Company & LinkedIn Details
-- ✅ Delete Alumni Record
-- ✅ Responsive User Interface
-- ✅ Supabase Database Integration
+- 🔐 User Authentication (Sign In / Sign Up)
+- 🛡️ Admin Login
+- 👤 Alumni Registration & Profile Management
+- 🔍 Search Alumni
+- 💬 Direct Messaging
+- ✏️ Edit Profile
+- 📊 Dashboard with Alumni Statistics
+- 📱 Responsive Modern UI
+- ☁️ Supabase Database Integration
 
 ---
 
