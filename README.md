@@ -1,6 +1,6 @@
 # 🎓 Alumni Networking Portal
 
-A modern full-stack web application that helps universities connect students with alumni. The platform allows alumni to register, create professional profiles, and be easily discovered through a searchable directory.
+Modern full-stack Alumni Networking Portal built with Next.js, TypeScript, Tailwind CSS and Supabase.
 
 ---
 
@@ -92,7 +92,7 @@ http://localhost:3000
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb7fb879-0829-4db0-8a52-350ceb638c53" />
 
-### Alumni Directory
+### Alumni Dashboard
 
 <img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/4b5c080b-524a-4f36-ab8c-aec86e9227b8" />
 
@@ -135,13 +135,18 @@ This project helped in understanding:
 
 ---
 
+
+
 ## 👩‍💻 Developer
 
 **Khushi Sehgal**
 
-B.Tech CSE (Cyber Security & Privacy)
-
+B.Tech CSE (Cyber Security & Privacy)  
 DIT University
+
+📧 Email: ksehgal384@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/khushi-sehgal-72a9aa286/
 
 ---
 
